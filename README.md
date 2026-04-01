@@ -4,10 +4,10 @@
 <p align="center">
     <img width="128" src="/assets/logo.png" alt="Simple Live logo">
 </p>
-<h2 align="center">Simple Live</h2>
+<h2 align="center">LumeLive</h2>
 
 <p align="center">
-简简单单的看直播
+微光直播
 </p>
 
 ![浅色模式](/assets/screenshot_light.jpg)
