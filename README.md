@@ -17,7 +17,7 @@
 
 -   原作者：[xiaoyaocz/dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live)
 
-本仓库进行了个人偏好的修改，感谢原作者的 **开源精神**。
+本仓库基于原项目进行个性化修改，感谢原作者的无私开源。
 
 ---
 
