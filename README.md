@@ -1,10 +1,10 @@
 <p align="center">
     <img width="128" src="assets/logo.png" alt="Simple Live logo">
 </p>
-<h1 align="center">Simple Live</h1>
+<h1 align="center">LumeLive</h1>
 
 <p align="center">
-简简单单的看直播
+微光直播
 </p>
 
 ---
