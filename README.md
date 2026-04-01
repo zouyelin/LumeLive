@@ -22,9 +22,9 @@
 
 ---
 
-![浅色模式](/assets/screenshot_light.png)
+![浅色模式](/assets/screenshot_light.jpg)
 
-![深色模式](/assets/screenshot_dark.png)
+![深色模式](/assets/screenshot_dark.jpg)
 
 ---
 
